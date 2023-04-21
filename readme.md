@@ -13,3 +13,5 @@ Coding the asynchronous way: How to write a similar Python script that downloads
 Comparison: How to compare the speed of execution of the two scripts and see the difference
 
 By the end of this video, you will have a clear understanding of how to use asyncio, await, asyncio.run method and aiohttp.ClientSession class for downloading images from pexels.com given URLs asynchronously. You will also see how much faster and smoother the asynchronous way is compared to the synchronous or sequential way.
+
+results: sync_time = 7.2446 sec async_time=1.6012 sec
